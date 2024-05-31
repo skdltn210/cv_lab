@@ -1,0 +1,9 @@
+presentations/231010.key filter=lfs diff=lfs merge=lfs -text
+presentations/231031.key filter=lfs diff=lfs merge=lfs -text
+presentations/231010.pdf filter=lfs diff=lfs merge=lfs -text
+presentations/230811.key filter=lfs diff=lfs merge=lfs -text
+presentations/230811.pdf filter=lfs diff=lfs merge=lfs -text
+presentations/230427.key filter=lfs diff=lfs merge=lfs -text
+presentations/230901.key filter=lfs diff=lfs merge=lfs -text
+presentations/230427.pdf filter=lfs diff=lfs merge=lfs -text
+presentations/230616.key filter=lfs diff=lfs merge=lfs -text
